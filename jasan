@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 ,CANAL 24 HORAS
+#EXTINF:-1 ,Variados 1
 http://tecnotv.club/full/smartv.m3u
 
-#EXTINF:-1 ,CANAL 24 HORAS
+#EXTINF:-1 ,Variados 2
 http://tecnotv.club/full/geomex.m3u
 
-#EXTINF:-1 ,CANAL 24 HORAS
+#EXTINF:-1 ,Variados 3
 http://tecnotv.club/full/fta.m3u
 
-#EXTINF:-1 ,CANAL 24 HORAS
+#EXTINF:-1 ,Variados 4
 http://tecnotv.club/full/fta2.m3u
 
-#EXTINF:-1 ,CANAL 24 HORAS
+#EXTINF:-1 ,Variados 5
 http://tecnotv.club/full/android.m3u
