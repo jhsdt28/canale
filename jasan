@@ -14,3 +14,9 @@ http://tecnotv.club/full/fta2.m3u
 
 #EXTINF:-1 ,Variados 5
 http://tecnotv.club/full/android.m3u
+
+#EXTINF:-1 ,Peru
+http://www.m3u.cl/playlist/PE.m3u
+
+#EXTINF:-1 ,Peru2
+http://tvpremiumhd.club/tv.m3u
